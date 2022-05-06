@@ -36,3 +36,16 @@ Through my work with this dataset, I found that the number of cylinders has a gr
 combined miles per/gallon of a vehicle was an indicator of CO2 Emissions. With lower mpg indicating higher CO2 Emissions and higher mpg indicating 
 lower CO2 Emissions. To better predict CO2 Emissions for marketing purposes (vehicles with lower emissions for growing market) I would want
 to further analyze the Cylinders, Fuel Consumption, and CO2 Emissions columns. 
+
+# Machine Learning Project Part 2
+
+![final1](https://user-images.githubusercontent.com/103288613/167069006-4442bab5-913f-4e3a-89c9-64f4095600cc.JPG)
+
+![final2](https://user-images.githubusercontent.com/103288613/167069041-af244aa5-7a61-4340-846d-00172e99ad0b.JPG)
+
+![final3](https://user-images.githubusercontent.com/103288613/167069062-dcb46314-79d8-423d-8097-3ef7a9e0feeb.JPG)
+
+![final4](https://user-images.githubusercontent.com/103288613/167069091-520b941f-b8bf-4405-a57c-65ad1d19edd1.JPG)
+
+
+
