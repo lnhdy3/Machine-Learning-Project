@@ -38,11 +38,24 @@ lower CO2 Emissions. To better predict CO2 Emissions for marketing purposes (veh
 to further analyze the Cylinders, Fuel Consumption, and CO2 Emissions columns. 
 
 # Machine Learning Project Part 2
+## Data Preparation
+### Link to kaggle dataset used: https://www.kaggle.com/datasets/prathamtripathi/co2-emissions-by-cars-in-canada
+##### Plot the distribution of target values in dataset
+![final4](https://user-images.githubusercontent.com/103288613/167292913-f0c21af1-4ef2-4341-870d-b356f5ef8006.png)
 
-![final1](https://user-images.githubusercontent.com/103288613/167069006-4442bab5-913f-4e3a-89c9-64f4095600cc.JPG)
 
-![final2](https://user-images.githubusercontent.com/103288613/167069041-af244aa5-7a61-4340-846d-00172e99ad0b.JPG)
+##### Look for NA or missing values
+I found no missing values
 
+##### Label encoded vs one-hot encoded 
+One-hot encoded column Fuel Type resulting in:
+![final5](https://user-images.githubusercontent.com/103288613/167293502-5f5df1d9-2b81-4c29-8208-dd6f5f0bbd68.JPG)
+
+#### Steps 3 & 4
+Kept columns which I found important for mapping CO2 Emissions. Agrregated CO2 Emissions with mean and standard deviation.
+one-hot encoded fuel type and label encoded make, vehicle class. 
+
+###### Two plots I did 
 ![final3](https://user-images.githubusercontent.com/103288613/167069062-dcb46314-79d8-423d-8097-3ef7a9e0feeb.JPG)
 
 ![final4](https://user-images.githubusercontent.com/103288613/167069091-520b941f-b8bf-4405-a57c-65ad1d19edd1.JPG)
